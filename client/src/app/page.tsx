@@ -47,7 +47,7 @@ export default async function Home() {
         acceptance rates.
       </p>
 
-      <Link href={'https://github.com/Abhinav72313/LCCompanySheet'} target="_blank" className="hover:text-blue-500 shadow-lg text-white  border-2 h-36 w-56 absolute bg-black cursor-pointer -top-12 -right-24 p-4 rotate-45 flex flex-col items-center justify-end">
+      <Link href={'https://github.com/Amanmeena0/lc-company-sheet'} target="_blank" className="hover:text-blue-500 shadow-lg text-white  border-2 h-36 w-56 absolute bg-black cursor-pointer -top-12 -right-24 p-4 rotate-45 flex flex-col items-center justify-end">
         <GithubIcon className="h-10 w-10 " />
       </Link>
 
